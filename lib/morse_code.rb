@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 KEY = {
   '.-': 'A',
   '-...': 'B',
@@ -34,7 +32,7 @@ def decode_char(char)
 end
 
 def decode_word(word)
-  word.split(' ').map { |char| decode_char(char) }.join('')
+  word.split.map { |char| decode_char(char) }.join
 end
 
 def decode_message(message)
