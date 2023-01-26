@@ -1,39 +1,132 @@
-# Foo
+<!-- TABLE OF CONTENTS -->
 
-TODO: Delete this and the text below, and describe your gem
+# 📗 Table of Contents
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/foo`. To experiment with that code, run `bin/console` for an interactive prompt.
+<details>
+  <summary>📗 Table of Contents</summary>
+  <ul>
+    <li><a href="#-meal-app-">📖 Decode Morse Code</a></li>
+    <li><a href="#-built-with-">🛠 Built With</a></li>
+    <li><a href="#-getting-started-">💻 Getting Started</a></li>
+    <li><a href="#-authors-">👥 Authors </a></li>
+    <li><a href="#-contributing-">🤝 Contributing</a></li>
+    <li><a href="#️-show-your-support-">⭐️ Show your support </a></li>
+    <li><a href="#-acknowledgments-">🙏 Acknowledgments </a></li>
+    <li><a href="#-license-">📝 License</a></li>
+  </ul>
+</details>
 
-## Installation
+<br>
 
-TODO: Replace `UPDATE_WITH_YOUR_GEM_NAME_PRIOR_TO_RELEASE_TO_RUBYGEMS_ORG` with your gem name right after releasing it to RubyGems.org. Please do not do it earlier due to security reasons. Alternatively, replace this section with instructions to install your gem from git if you don't plan to release to RubyGems.org.
+<!-- PROJECT DESCRIPTION -->
 
-Install the gem and add to the application's Gemfile by executing:
+# 📖 Decode Morse Code <a name="about-project"></a>
 
-    $ bundle add UPDATE_WITH_YOUR_GEM_NAME_PRIOR_TO_RELEASE_TO_RUBYGEMS_ORG
+**Decode Morse Code** is a simple ruby project that can decode messages written in morse code
 
-If bundler is not being used to manage dependencies, install the gem by executing:
+## 🛠 Built With <a name="built-with"></a>
 
-    $ gem install UPDATE_WITH_YOUR_GEM_NAME_PRIOR_TO_RELEASE_TO_RUBYGEMS_ORG
+### Tech Stack <a name="tech-stack"></a>
 
-## Usage
+<details>
+  <summary>Backend</summary>
+  <ul>
+    <li><a href="https://www.ruby-lang.org/en/">Ruby</a></li>
+  </ul>
+</details>
 
-TODO: Write usage instructions here
+<!-- Features -->
 
-## Development
+### Key Features <a name="key-features"></a>
 
-After checking out the repo, run `bin/setup` to install dependencies. Then, run `rake test` to run the tests. You can also run `bin/console` for an interactive prompt that will allow you to experiment.
+- Simple project that can decode morse code
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need:
+
+```sh
+ git
+ bundle
+ Your favorite text editor
+```
+
+### Setup
+
+Clone this repository to your desired folder:
+
+```sh
+  git clone https://github.com/Shisui6/decode-morse-code.git
+```
+
+### Install
+
+Install this project with:
+
+```sh
+  cd decode-morse-code
+  bundle install
+```
+
+### Development
+
+```sh
+  After checking out the repo, run `bin/setup` to install dependencies. Then, run `rake test` to run the tests. You can also run `bin/console` for an interactive prompt that will allow you to experiment.
 
 To install this gem onto your local machine, run `bundle exec rake install`. To release a new version, update the version number in `version.rb`, and then run `bundle exec rake release`, which will create a git tag for the version, push git commits and the created tag, and push the `.gem` file to [rubygems.org](https://rubygems.org).
+```
 
-## Contributing
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/foo. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [code of conduct](https://github.com/[USERNAME]/foo/blob/master/CODE_OF_CONDUCT.md).
+<!-- AUTHORS -->
 
-## License
+## 👥 Authors <a name="authors"></a>
 
-The gem is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+👤 **Shisui**
 
-## Code of Conduct
+- GitHub: [@Shisui6](https://github.com/Shisui6)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/okemdi-udeh)
 
-Everyone interacting in the Foo project's codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/[USERNAME]/foo/blob/master/CODE_OF_CONDUCT.md).
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
+
+If you like this project please leave a star🤩
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+- [Microverse](https://www.microverse.org/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
